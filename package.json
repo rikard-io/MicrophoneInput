@@ -1,0 +1,20 @@
+{
+  "name": "@rikardio/microphoneinput.js",
+  "version": "1.0.0",
+  "description": "A simple (ES6 module) wrapper for handling Microphone input through the WebAudio API",
+  "main": "MicrophoneInput.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rikard-io/MicrophoneInput"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WebAudio",
+    "mic",
+    "microphone"
+  ],
+  "author": "Rikard Lindström <hi@rikard.io>",
+  "license": "WTFPL"
+}
