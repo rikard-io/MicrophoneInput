@@ -5,12 +5,12 @@ A simple wrapper for handling Microphone input through the WebAudio API.
 Tested in Chrome 75+ and Safari 12.1.1+
 
 ## Install
-`$ npm -i -D @rikardio/microphoneinput`
-`$ yarn add -D @rikardio/microphoneinput`
+`$ npm -i -D @rikard.io/microphoneinput`
+`$ yarn add -D @rikard.io/microphoneinput`
 
 ## Usage
 ```
-import MicrophoneInput from '@rikardio/MicrophoneInput.js';
+import MicrophoneInput from '@rikard.io/MicrophoneInput.js';
 ...
 let audioContext = new AudioContext();
 let microphoneInput = new MicrophoneInput(audioContext);
