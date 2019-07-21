@@ -6,6 +6,7 @@ Tested in Chrome 75+ and Safari 12.1.1+
 
 ## Install
 `$ npm -i -D @rikard.io/microphoneinput`
+
 `$ yarn add -D @rikard.io/microphoneinput`
 
 ## Usage
