@@ -13,7 +13,7 @@ Tested in Chrome 75+ and Safari 12.1.1+
 
 ## Usage
 ```
-import MicrophoneInput from '@rikard.io/MicrophoneInput.js';
+import MicrophoneInput from '@rikard.io/microphoneinput';
 ...
 let audioContext = new AudioContext();
 let microphoneInput = new MicrophoneInput(audioContext);
